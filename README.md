@@ -6,6 +6,9 @@ Site one-page pour **Société El Wafa de Bâtiment** (Bizerte, Tunisie).
 
 ## Stack
 
+Vitrine marketing Next.js, pensée mobile-first pour un artisan du bâtiment à Bizerte.
+
+
 - Next.js (App Router) + React + TypeScript
 - Tailwind CSS
 - Formulaire de contact → `alislimia01@gmail.com` via FormSubmit
