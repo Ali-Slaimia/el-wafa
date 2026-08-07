@@ -32,3 +32,8 @@ Build command: `npm run build` — Next.js plugin activé.
 
 Les messages du formulaire partent vers `alislimia01@gmail.com`.
 Au premier envoi, FormSubmit peut demander une confirmation de l’adresse email.
+
+## Auteur
+
+**[Ali Slaimia](https://github.com/Ali-Slaimia)** — Full-stack engineer (Bizerte).  
+Code: [github.com/Ali-Slaimia/el-wafa](https://github.com/Ali-Slaimia/el-wafa)
