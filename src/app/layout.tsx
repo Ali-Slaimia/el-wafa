@@ -1,3 +1,4 @@
+/** Site vitrine WAFA BATIMENT — Ali Slaimia */
 import type { Metadata } from "next";
 import { Figtree, Syne } from "next/font/google";
 import "./globals.css";
@@ -17,8 +18,7 @@ const body = Figtree({
 export const metadata: Metadata = {
   metadataBase: new URL("https://el-wafa.netlify.app"),
   title: "WAFA BATIMENT — Société El Wafa de Bâtiment | Bizerte",
-  description:
-    "Entreprise familiale tunisienne spécialisée dans la construction et la promotion immobilière résidentielle à Bizerte. Depuis 2016 — qualité, sérieux et fidélité.",
+  description: "Société El Wafa de Bâtiment — site vitrine à Bizerte, Tunisie.",
   keywords: [
     "construction Bizerte",
     "promotion immobilière Tunisie",
